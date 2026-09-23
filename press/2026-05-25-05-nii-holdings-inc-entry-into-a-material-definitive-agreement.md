@@ -1,7 +1,9 @@
 ---
 title: 'NII HOLDINGS INC : Entry into a Material Definitive Agreement ...'
 url: https://www.marketscreener.com/news.php?id_news=29746691
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NII Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: NII Holdings Customer Success Story
 url: https://workspace.google.com/customers/nii-holdings/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NII Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google
