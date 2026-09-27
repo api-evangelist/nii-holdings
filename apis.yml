@@ -34,3 +34,10 @@ common:
 description: >-
   NII Holdings was a provider of mobile communications services in Latin America under
   the Nextel brand before its operations were divested.
+x-lifecycle:
+  state: shuttered
+  reason: domain-does-not-resolve
+  observed: '2026-09-27'
+  detail: >-
+    The company's own domain returned no A or AAAA record when probed. This is an observation about the domain, not a request from the company.
+  indexed: false
